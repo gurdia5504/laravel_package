@@ -1,0 +1,19 @@
+{
+    "name": "package/adduser",
+    "description": "This will addusers in database",
+    "type": "library",
+    "license": "MIT",
+    "authorsf":[
+        {
+            "name":"Naila Gulzar",
+            "email":"package@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Package\\Adduser\\": "src/"
+        }
+    }
+}
