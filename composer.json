@@ -1,5 +1,5 @@
 {
-    "name": "gurdia/adduser",
+    "name": "package/adduser",
     "description": "This will addusers in database",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Gurdia\\Adduser\\": "src/"
+            "Package\\Adduser\\": "src/"
         }
     }
 }

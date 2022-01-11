@@ -1,6 +1,6 @@
 <?php
 
-namespace  Gurdia\Adduser\Http\Controllers;
+namespace  Package\Adduser\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
