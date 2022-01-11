@@ -15,5 +15,12 @@
         "psr-4": {
             "Package\\Adduser\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Packaage\\Adduser\\AdduserServiceProvider"
+            ]
+        }
     }
 }
