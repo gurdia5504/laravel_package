@@ -1,6 +1,6 @@
 <?php
 
-namespace Package\Adduser\Models;
+namespace Gurdia\Adduser\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

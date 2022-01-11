@@ -1,5 +1,5 @@
 <?php
-namespace Package\Adduser;
+namespace Gurdia\Adduser;
 
 use Illuminate\Support\ServiceProvider;
 
